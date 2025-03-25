@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 ## Files Included
-- `happiness_report2021t_2021.csv`: Cleaned dataset (link provided)
+- `happiness_report2021.csv`: Cleaned dataset (link provided)
 - `Happiness_Report_Dashboard.ipynb`: Jupyter notebook with dashboard
 - `requirements.txt`: Required Python packages
 - `Readme.md`: Project instructions
